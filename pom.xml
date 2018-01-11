@@ -34,7 +34,6 @@
             <version>${spring.boot.version}</version>
             <scope>test</scope>
         </dependency>
-
         <!--Mongo Driver-->
         <dependency>
             <groupId>org.mongodb</groupId>
@@ -84,7 +83,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
     <build>
         <finalName>test_ufm</finalName>
